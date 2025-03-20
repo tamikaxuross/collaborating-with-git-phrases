@@ -6,3 +6,6 @@ def farewell():
 
 def add_function():
     print("Have a good day!")    
+
+def pushing():
+    print("today is a good day")
